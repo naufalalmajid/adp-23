@@ -1,0 +1,2 @@
+Sebuah perusahaan menawarkan pekerjaan dengan remunerasi bulanan yang dihitung dari gaji tetap ditambah persentase penjualan sebagai komisi bagi karyawannya dengan kondisi jika penjualan yang dilakukan karyawan melampaui $5000. Komisi adalah 12% dari penjualan setelah $5000, jika tidak maka komisinya adalah NOL.
+Buatlah algoritma dan flowchart dari kasus ini.
