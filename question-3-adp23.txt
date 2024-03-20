@@ -1,0 +1,4 @@
+Lakukan loop terhadap list dari object siswa dari contoh program yang diberikan. 
+
+Kemudian simpan jumlah siswa yang sudah berusia 20 tahun di Tahun 2024 ke dalam suatu variable dengan type integer dan tampilkan nilainya ke layar.
+Buat program menghitung jumlah siswa yang sudah berusia 20 tahun pada tanggal 15 Maret 2024 kemudian tampilkan nilainya ke layar.
